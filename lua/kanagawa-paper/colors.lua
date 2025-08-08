@@ -88,14 +88,14 @@ end
 ---@type PaletteColors
 M.palette = {
 	-- Bg Shades
-	sumiInkn1 = "#0f0f15",
-	sumiInk0 = "#16161D",
-	sumiInk1 = "#181820",
-	sumiInk2 = "#1a1a22",
-	sumiInk3 = "#1F1F28",
-	sumiInk4 = "#2A2A37",
-	sumiInk5 = "#363646",
-	sumiInk6 = "#54546D",
+	sumiInkn1 = "#141617",
+	sumiInk0 = "#141617",
+	sumiInk1 = "#1d2021",
+	sumiInk2 = "#1d2021",
+	sumiInk3 = "#282828",
+	sumiInk4 = "#282828",
+	sumiInk5 = "#3c3836",
+	sumiInk6 = "#3c3836",
 
 	-- Popup and Floats
 	waveBlue1 = "#223249",
